@@ -50,14 +50,13 @@ perpetually expanding my skill set to embrace the ever-evolving landscape of sof
 
 ## 🤝 Connect with Me
 - [LinkedIn]()
-- [Twitter]()
 - [Portfolio]()
 - [Instagram]()
 
 ## 📫 How to Reach Me
 
 - Email: djyoti436@gmail.com
-- LinkedIn: [kishore-sunchu]()
+- LinkedIn: [Dwivedi-Jyoti]()
 
  Feel free to explore my repositories and provide feedback. Let's connect and collaborate on exciting projects! 🚀
 
