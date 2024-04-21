@@ -24,7 +24,7 @@ perpetually expanding my skill set to embrace the ever-evolving landscape of sof
 
 ### ✨ Database
 - MySQL
-- MongoDB (learning)
+- MongoDB
 
 ### DevOps
 - Git, GitHub
