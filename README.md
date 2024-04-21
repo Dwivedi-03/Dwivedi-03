@@ -1,4 +1,4 @@
-# Hiii👋, I’m Dwivedi Jyoti 💞️😄
+# Hiii👋, I’m Dwivedi Jyoti 💞
 
 "As a fervent full stack developer honing my craft at NJ India Invest, I thrive on the dynamic interplay between frontend and backend development. 
 My forte resides in crafting robust web applications, weaving the elegance of ReactJS for intuitive user interfaces,
