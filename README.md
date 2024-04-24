@@ -33,7 +33,7 @@ perpetually expanding my skill set to embrace the ever-evolving landscape of sof
 - [EE-Explore Events](): An Event Management System.
 
 ## 👨‍💻 Projects
-- [KrishiCare]() - A Farmer Information System with farmer managemnet, laboratory management, soil health report generation and other functionalities.
+- [KrishiCare]() - A Farmer Information System with farmer management, laboratory management, soil health report generation and other functionalities.
 
 ## 📚 Education
 - Pursing My Bechelor's of Computer Application At [UCCC & SPBCBA & SDHGCBCA & IT College](https://udhnacollege.ac.in/Home.php)
